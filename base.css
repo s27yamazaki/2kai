@@ -1,0 +1,22 @@
+body h1 {
+    color: #FE0105;
+}
+body h1 {
+    color: #FF0004;
+    font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    font-size: 40px;
+}
+.key {
+    color: #FD0615;
+    background-color: #010FFF;
+    text-decoration: underline;
+    font-size: x-large;
+}
+body {
+    background-image: url(../../../%E7%94%BB%E5%83%8F/134292082090047360.jpg);
+}
+
+body p img {
+    border: 10px dotted #060000;
+
+}
